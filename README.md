@@ -81,12 +81,10 @@ npm start
 
 ---
 
-## Deployment 🚀
- URL:
 
 ### **Deployment**  
 ```bash
-URL:  clone https://github.com/sarfarazadil/notify-nodejs.git
+URL: https://notify-nodejs.onrender.com
 ```
 
 ---

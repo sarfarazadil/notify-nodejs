@@ -13,6 +13,10 @@ connectDB();
 
 const app = express();
 
+app.get("/", (req, res) => {
+    res.send("Welcome to Notify-NodeJS API 🚀");
+  });
+
 // Middleware
 app.use(cors());
 app.use(express.json());
